@@ -1,16 +1,12 @@
 # Vercel Navbar UI
 
-A sleek, responsive navigation bar built with React, Tailwind CSS, and Framer Motion. This project features a clean, single-screen layout without scrolling and includes a footer with a personalized message.
+A sleek, responsive navigation bar built with React, Tailwind CSS, and Framer Motion.
 
 ## 🌟 Features
 
 - **Responsive Navbar**:
   - Interactive navigation bar with hover effects.
   - Active item animations using Framer Motion.
-- **Single-Screen Layout**:
-  - Fits the entire app within a single screen, ensuring no scrolling.
-- **Footer Section**:
-  - Includes a simple footer with a message: "Made with ❤️ by Durgajayasai."
 - **Custom Animations**:
   - Smooth animations for hover and active states using Framer Motion.
 - **Modern Styling**:
