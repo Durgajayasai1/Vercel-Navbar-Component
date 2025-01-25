@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sora: "Sora", "serif";
+}
+
+body {
+  background-color: black;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
