@@ -1,8 +1,25 @@
-# React + Vite
+# Vercel Navbar UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive navigation bar built with React, Tailwind CSS, and Framer Motion. This project features a clean, single-screen layout without scrolling and includes a footer with a personalized message.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Navbar**:
+  - Interactive navigation bar with hover effects.
+  - Active item animations using Framer Motion.
+- **Single-Screen Layout**:
+  - Fits the entire app within a single screen, ensuring no scrolling.
+- **Footer Section**:
+  - Includes a simple footer with a message: "Made with ❤️ by Durgajayasai."
+- **Custom Animations**:
+  - Smooth animations for hover and active states using Framer Motion.
+- **Modern Styling**:
+  - Powered by Tailwind CSS for a clean and consistent design.
+
+---
+
+## 🛠 Tech Stack
+
+- **React**: For building the UI components.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Framer Motion**: For smooth hover and active animations.
